@@ -20,16 +20,6 @@ We collect the following types of personal information when you use Kalyanm.com:
 - Religious and cultural details
 - Marital status
 
-### 1.2 Log Data
-We collect information about your device and usage of our app:
-- IP address
-- Device type and model
-- Operating system
-- Device identifiers
-- Log data (including browsing behavior and interaction with the app)
-
-### 1.3 Location Data
-We may collect and use your location for improving our services, such as suggesting nearby matches. You can disable location tracking in your device settings.
 
 ## 2. How We Use Your Information
 
@@ -65,14 +55,9 @@ As a user of Kalyanm.com, you have the following rights regarding your data:
 
 We retain your personal information for as long as your account is active or as needed to provide our services. If you delete your account, we will remove your data from our active records, although we may retain certain information as required by law.
 
-## 7. Cookies and Tracking Technologies
-
-We use cookies and similar technologies to enhance your experience with Kalyanm.com, including:
-- To track user activity and analyze app usage.
+## 7.Tracking Technologies
 - To remember your login credentials for future sessions.
 - To personalize your experience and content.
-
-You can control cookies through your device settings.
 
 ## 8. Third-Party Services
 
